@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+ydata-profiling
+langgraph
+openai
+matplotlib
+altair
+seaborn
+reportlab
+python-multipart
+python-dotenv
+
+
